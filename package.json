@@ -1,0 +1,23 @@
+{
+  "name": "@h21-map-types/google-markercluster",
+  "version": "1.0.1",
+  "scope":"@h21-map-types",
+  "description": "TypeScript definitions for Google Map",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novakand/h21-map-types/google-markercluster"
+  },
+  "keywords": [
+    "google",
+    "google-markercluster",
+    "google-type",
+    "angular",
+    "types"
+  ],
+  "author": "",
+  "license": ""
+}
