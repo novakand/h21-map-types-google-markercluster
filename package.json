@@ -4,6 +4,7 @@
   "scope":"@h21-map-types",
   "description": "TypeScript definitions for Google Map",
   "main": "",
+  "types": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
